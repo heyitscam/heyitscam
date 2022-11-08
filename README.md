@@ -10,7 +10,6 @@
 
 - I'm currently working on [SolarStats](https://github.com/Solar-Tweaks/SolarStats) and [Solar Tweaks](https://github.com/Solar-Tweaks/Solar-Tweaks).
 - I know a large variety of programming languages, but main JavaScript and TypeScript (with a bit of Java).
-- Reach me at tarun.bhaskar@outlook.com.
 - I play Minecraft and Rocket League a lot.
 - <b>Rocket League Sideswipe is superior.</b>
 
