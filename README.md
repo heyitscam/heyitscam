@@ -3,7 +3,7 @@
   I'm a young JavaScript Developer and <i>Professional</i> Gamer.
   <br />
   <br />
-  <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/668116405765537808"></a>
+  <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/983163377243271291"></a>
 </h3>
 
 ## About Me
