@@ -7,7 +7,7 @@ https://heyitsleo.ml
 </h3>
 
 
-###  things i know & learning
+<h1 align="center">things i know & learning</h1>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
