@@ -1,8 +1,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/111710350/209377227-c6d12946-14a5-4816-8072-35e4433add61.png" />
 <h1 align="center">leo (. ❛ ᴗ ❛.)</h1>
 <h3 align="center">
-    13 yo developer
-https://heyitsleo.ml
+    14 yo developer
+github.com/StylarBot
     <br>
 </h3>
 
