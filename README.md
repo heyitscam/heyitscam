@@ -1,5 +1,5 @@
 <img align="center" src="https://user-images.githubusercontent.com/111710350/209377227-c6d12946-14a5-4816-8072-35e4433add61.png" />
-<h1 align="center">leo (. ❛ ᴗ ❛.)</h1>
+<h1 align="center">theo)</h1>
 <h3 align="center">
     14 yo developer
 github.com/StylarBot
@@ -21,7 +21,6 @@ github.com/StylarBot
 
 <h1 align="center">socials</h1>
 <h3 align="center">
-  <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/983163377243271291"></a>
     <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsleo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 </h1>
